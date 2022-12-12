@@ -4,11 +4,11 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JPeters775/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/JPeters775/osticket-postconfig)
+  - [osTicket: Post-Installation Configuration (Currently Creating)](https://github.com/JPeters775/osticket-postconfig)
   - [osTicket: Ticket Lifecycle Example](https://github.com/JPeters775/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating a Virtual Machines (VM) using Microsoft Azure](https://github.com/JPeters775/virtual-machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JPeters775/configure-ad)
+  - [Creating a Virtual Machines(VMs) using Microsoft Azure (Currently Creating)](https://github.com/JPeters775/virtual-machine)
+  - [Configuring On-premises Active Directory within Azure VMs (Currently Creating)](https://github.com/JPeters775/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
