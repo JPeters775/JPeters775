@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration (Currently Creating)](https://github.com/JPeters775/osticket-postconfig)
   - [osTicket: Ticket Lifecycle Example](https://github.com/JPeters775/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating a Virtual Machines(VMs) using Microsoft Azure (Currently Creating)](https://github.com/JPeters775/virtual-machine)
+  - [Creating Virtual Machines(VMs) using Microsoft Azure (Currently Creating)](https://github.com/JPeters775/virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs (Currently Creating)](https://github.com/JPeters775/configure-ad)
 
 <h2>🤳Connect with me:</h2>
