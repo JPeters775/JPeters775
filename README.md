@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JPeters775/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration (Currently Creating)](https://github.com/JPeters775/osticket-postconfig)
+  - [osTicket: Post-Installation Configuration](https://github.com/JPeters775/osticket-postconfig)
   - [osTicket: Ticket Lifecycle Example](https://github.com/JPeters775/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines(VMs) using Microsoft Azure (Currently Creating)](https://github.com/JPeters775/virtual-machine)
@@ -12,6 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jamesangelsantiagopeters
