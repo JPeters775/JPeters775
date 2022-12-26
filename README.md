@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines(VMs) using Microsoft Azure (Currently Creating)](https://github.com/JPeters775/virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs (Currently Creating)](https://github.com/JPeters775/config-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JPeters775/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
