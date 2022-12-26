@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Example](https://github.com/JPeters775/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines(VMs) using Microsoft Azure (Currently Creating)](https://github.com/JPeters775/virtual-machine)
-  - [Configuring On-premises Active Directory within Azure VMs (Currently Creating)](https://github.com/JPeters775/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs (Currently Creating)](https://github.com/JPeters775/config-ad)
 
 <h2>🤳Connect with me:</h2>
 
